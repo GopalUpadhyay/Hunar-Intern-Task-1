@@ -1,0 +1,33 @@
+body {
+  background-color: #dad3be;
+}
+h1{
+  color:darkgreen;
+}
+h2{
+  color: darkgreen;
+}
+h3{
+  color: darkgreen;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  background-color: #dad3be;
+  width: 5%;
+}
+
+.First {
+  border-radius: 100px;
+  height: 200px;
+  background-color: antiquewhite;
+}
+
+
+table {
+  background-color: #dad3be;
+  border-radius: 30px;
+}
+
